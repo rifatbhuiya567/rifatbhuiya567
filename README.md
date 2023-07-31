@@ -1,2 +1,2 @@
-[![Visits Badge](https://badges.strrl.dev/visits/${rifatbhuiya567}/${repo})](https://badges.strrl.dev)
+![](https://komarev.com/ghpvc/?username=your-github-rifatbhuiya567&color=green)
 # Hey there,
