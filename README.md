@@ -16,4 +16,6 @@
 </div>
 <!-- Touch End -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rifatbhuiya567}">
+<div>
+  <img src="https://vbr.wocr.tk/badge?page_id=rifatbhuiya567"/>
+</div>
