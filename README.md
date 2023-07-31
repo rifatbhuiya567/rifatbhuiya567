@@ -3,8 +3,8 @@
 </div>
 <!-- Banner End -->
 
-<p>📫 Get in touch today:</p>
-<div style="display: flex; justify-content: end;">
+<div>
+  <p>📫 Get in touch today:</p>
   <a href="https://www.linkedin.com/in/rifatbhuiya567/" target="_blank" title="rifat's linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
