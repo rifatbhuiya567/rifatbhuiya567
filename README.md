@@ -1,5 +1,2 @@
-<div width="100%">
-  <span align="left">Profile views</span>
-  <span align="right">![Visitor Count](https://profile-counter.glitch.me/{rifatbhuiya567}/count.svg)</span>
-</div>
+<span align="right">![Visitor Count](visitor-badge.glitch.me/badge?page_id=YOURPAGEID{rifatbhuiya567}/count.svg)</span>
 # Hey there,
