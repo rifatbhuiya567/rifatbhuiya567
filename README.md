@@ -17,5 +17,5 @@
 <!-- Touch End -->
 
 <div>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rifatbhuiya567}&theme={github_dark})
+  ![github-profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rifatbhuiya567}&theme={github_dark})
 </div>
