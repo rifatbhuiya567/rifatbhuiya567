@@ -1,1 +1,3 @@
-<div style="background: url(images/banner.jpg) no-repeat center/cover; height: 300;"></div>
+<div>
+  <img src="/images/banner.jpg" height="400" width="100%" alt="rifat banner"/>
+</div>
