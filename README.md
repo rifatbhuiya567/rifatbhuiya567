@@ -4,7 +4,6 @@
 <!-- Banner End -->
 
 <div>
-  <p>📫 Get in touch today:</p>
   <a href="https://www.linkedin.com/in/rifatbhuiya567/" target="_blank" title="rifat's linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,3 +15,7 @@
   </a>
 </div>
 <!-- Touch End -->
+
+<div>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rifatbhuiya567}&theme={github_dark})
+</div>
