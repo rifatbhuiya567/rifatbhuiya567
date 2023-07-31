@@ -1,2 +1,2 @@
-<span align="right">![Visitor Count](visitor-badge.glitch.me/badge?page_id=YOURPAGEID{rifatbhuiya567}/count.svg)</span>
+[![Visits Badge](https://badges.strrl.dev/visits/${rifatbhuiya567}/${repo})](https://badges.strrl.dev)
 # Hey there,
