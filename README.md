@@ -15,7 +15,3 @@
   </a>
 </div>
 <!-- Touch End -->
-
-<div>
-  <img src="https://vbr.wocr.tk/badge?page_id=rifatbhuiya567"/>
-</div>
