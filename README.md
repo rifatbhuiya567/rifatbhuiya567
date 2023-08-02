@@ -25,4 +25,4 @@
 </div>
 <!-- Touch End -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={rifatbhuiya567})
+![](https://github-profile-trophy.vercel.app/?username={rifatbhuiya567})
