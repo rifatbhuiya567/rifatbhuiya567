@@ -1,6 +1,6 @@
-<div>
+<main>
   <img src="/images/banner.jpg" alt="rifat banner"/>
-</div>
+</main>
 <!-- Banner End -->
 
 <div>
