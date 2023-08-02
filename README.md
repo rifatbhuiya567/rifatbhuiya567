@@ -26,4 +26,4 @@
 <!-- Touch End -->
 
 
-[![Visits Badge](https://badges.strrl.dev/visits/${owner}/${repo})](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/${rifatbhuiya567}/${repo})](https://badges.strrl.dev)
