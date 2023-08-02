@@ -25,4 +25,4 @@
 </div>
 <!-- Touch End -->
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_text=Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
