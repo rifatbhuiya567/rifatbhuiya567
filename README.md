@@ -4,7 +4,6 @@
 <!-- Banner End -->
 
 <div align="center">
-  #### <span>Get in touch :</span>
   <a href="https://www.linkedin.com/in/rifatbhuiya567/" target="_blank" title="rifat's linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
