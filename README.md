@@ -25,4 +25,5 @@
 </div>
 <!-- Touch End -->
 
-![](https://github-profile-trophy.vercel.app/?username={rifatbhuiya567})
+
+[![Visits Badge](https://badges.strrl.dev/visits/${owner}/${repo})](https://badges.strrl.dev)
