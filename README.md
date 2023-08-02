@@ -26,4 +26,4 @@
 <!-- Touch End -->
 
 
-[![Visits Badge](https://badges.strrl.dev/visits/${rifatbhuiya567}/${repo})](https://badges.strrl.dev)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567&left_color=red&right_color=green&left_text=Hello%20Visitors)
