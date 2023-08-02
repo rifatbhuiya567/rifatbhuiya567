@@ -1,3 +1,8 @@
+<div>
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-  badge&left_color=red&right_color=green&left_text=Visitors)
+</div>
+<!-- Visitors Badge -->
+
 <main>
   <img src="/images/banner.jpg" alt="rifat banner"/>
 </main>
@@ -24,5 +29,3 @@
   </a>
 </div>
 <!-- Touch End -->
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
