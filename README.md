@@ -1,6 +1,4 @@
-<div>
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-  badge&left_color=red&right_color=green&left_text=Visitors)
-</div>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
 <!-- Visitors Badge -->
 
 <main>
