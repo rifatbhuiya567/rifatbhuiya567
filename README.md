@@ -27,3 +27,5 @@
   </a>
 </div>
 <!-- Touch End -->
+
+[![Rifat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatbhuiya567&theme=blue-green)](https://github.com/rifatbhuiya567/rifatbhuiya567)
