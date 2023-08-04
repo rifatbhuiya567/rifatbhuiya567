@@ -6,7 +6,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
 <!-- Visitors Badge -->
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/rifatbhuiya567/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/rifatbhuiya567/badges.svg)](https://github.com/rifatbhuiya567/badges/graphs/contributors/)
 <!-- Contributor Badge -->
 
 <div align="center">
