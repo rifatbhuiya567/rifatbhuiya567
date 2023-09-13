@@ -1,12 +1,12 @@
-<!-- <main>
+<main>
   <img src="/images/banner.jpg" alt="rifat banner"/>
 </main>
- Banner End -->
+<!-- Banner End -->
 
-<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
- Visitors Badge -->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
+<!-- Visitors Badge -->
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/rifatbhuiya567/" target="_blank" title="rifat's linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,9 +26,9 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
- Touch End -->
+<!-- Touch End -->
 
-<!-- <hr>
+<hr>
 
 [![Rifat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifatbhuiya567&theme=blue-green)](https://github.com/rifatbhuiya567/rifatbhuiya567)
- Languages -->
+<!-- Languages -->
