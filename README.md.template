@@ -37,7 +37,7 @@
 
 {{ with $todayWeather := index .Weathers 0 }}
 
-`{{ $todayWeather.Munshiganj }}, {{$todayWeather.Bangladesh }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
 
 <img src="{{ $todayWeather.Icon}}"/>
 
