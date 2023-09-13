@@ -12,7 +12,7 @@ jobs:
       - name: Generate README
         uses: rifatbhuiya567/weather-forecast@v1.0.4
         with:
-          city: Munshiganj, Dhaka Bangladesh
+          city: Munshiganj
           days: 2
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: 'README.md.template'
