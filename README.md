@@ -3,8 +3,8 @@
 </main>
 <!-- Banner End -->
 
-<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
- Visitors Badge -->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rifatbhuiya567.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
+<!--  Visitors Badge -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rifatbhuiya567/" target="_blank" title="rifat's linkedin">
