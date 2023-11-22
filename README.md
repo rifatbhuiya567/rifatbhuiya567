@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
-<!-- Touch End -->
+<!-- Actions End -->
 
 <hr>
 
