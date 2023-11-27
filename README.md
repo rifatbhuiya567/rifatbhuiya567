@@ -26,9 +26,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
-    <img src="[/images/yellow-button.png](https://freeimage.host/i/JoQcIJS)" alt="coffee button" style="width: 104px;">
+    <img src="[url=https://freeimage.host/i/JoQcIJS][img]https://iili.io/JoQcIJS.md.png[/img][/url]" alt="coffee button" style="width: 104px;">
   </a>
-  [url=https://freeimage.host/i/JoQcIJS][img]https://iili.io/JoQcIJS.md.png[/img][/url]
 </div>
 <!-- Actions End -->
 
