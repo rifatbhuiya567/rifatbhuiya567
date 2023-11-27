@@ -29,10 +29,8 @@
     <img src="/images/yellow-button.png" alt="coffee button" style="width: 104px;">
   </a>
   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
-    <img 
-      src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
-      alt="coffee button" 
-      style="width: 104px;"
+     <script type="text/javascript" 
+      src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" style="width: 104px;"
       data-name="bmc-button" 
       data-slug="rifatbhuiya" 
       data-color="#5F7FFF" 
@@ -41,10 +39,8 @@
       data-text="Buy me a pizza" 
       data-outline-color="#000000" 
       data-font-color="#ffffff" 
-      data-coffee-color="#FFDD00"
-    >
+      data-coffee-color="#FFDD00" ></script>
   </a>
-<!--   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" ></script> -->
 </div>
 <!-- Actions End -->
 
