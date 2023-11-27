@@ -25,6 +25,9 @@
   <a href="https://rifatbhuiya567.github.io/rifat-bhuiya-porfolio" target="_blank" title="rifat's website">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
+  <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
 </div>
 <!-- Actions End -->
 
