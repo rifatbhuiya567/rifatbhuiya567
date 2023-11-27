@@ -28,8 +28,8 @@
   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
     <img src="/images/yellow-button.png" alt="coffee button" style="width: 104px;">
   </a>
-  <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
-     <script type="text/javascript" 
+</div>
+<script type="text/javascript" 
       src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" style="width: 104px;"
       data-name="bmc-button" 
       data-slug="rifatbhuiya" 
@@ -40,8 +40,6 @@
       data-outline-color="#000000" 
       data-font-color="#ffffff" 
       data-coffee-color="#FFDD00" ></script>
-  </a>
-</div>
 <!-- Actions End -->
 
 <hr>
