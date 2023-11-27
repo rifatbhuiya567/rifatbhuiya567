@@ -26,9 +26,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
-    <img src="https://iili.io/JoQ1MeS.md.png"  alt="buymeacoffee" style="width: 104px;">
+    <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif"  alt="buymeacoffee" style="width: 104px;">
   </a>
 </div>
+
 <!-- Actions End -->
 
 <hr>
