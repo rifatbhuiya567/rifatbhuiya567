@@ -30,7 +30,7 @@
   </a>
 </div>
 <script type="text/javascript" 
-      src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" style="width: 104px;"
+      src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
       data-name="bmc-button" 
       data-slug="rifatbhuiya" 
       data-color="#5F7FFF" 
