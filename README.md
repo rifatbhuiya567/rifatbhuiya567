@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a> -->
   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
-    <img src="/images/black-button.png" alt="coffee button" style="width: 80px;">
+    <img src="/images/black-button.png" alt="coffee button" style="width: 120px;">
   </a>
 </div>
 <!-- Actions End -->
