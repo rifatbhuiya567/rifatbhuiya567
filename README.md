@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
-    <img src="/images/yellow-button.png" alt="coffee button" style="width: 104px;">
+    <img src="[/images/yellow-button.png](https://freeimage.host/i/JoQcIJS)" alt="coffee button" style="width: 104px;">
   </a>
 </div>
 <!-- Actions End -->
