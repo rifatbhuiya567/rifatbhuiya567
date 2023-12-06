@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/rifatbhuiya567/" target="_blank" title="rifat's linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee" style="margin-left: 16px;">
-    <img src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif"  alt="buymeacoffee-animated-badge" style="width: 148px; background-color: #0d1117 !important; border-radius: 5px;">
+   <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buy a coffee">
+    <img src="https://iili.io/JIYMmUN.gif"  alt="buymeacoffee-animated-badge" style="width: 148px;">
   </a>
 </div>
 
