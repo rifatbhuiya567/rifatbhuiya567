@@ -10,7 +10,7 @@
   <a href="mailto:hello.rifatbhuiya@gmail.com" target="_blank" title="rifat's email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/01950533875" target="_blank" title="rifat's whatsapp">
+  <a href="https://wa.me/+8801950533875" target="_blank" title="rifat's whatsapp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 <!--   <a href="https://twitter.com/rifatbhuiya567" target="_blank" title="rifat's twitter">
